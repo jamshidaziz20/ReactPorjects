@@ -1,0 +1,10 @@
+npm run build
+- creates a build folder, which is use to deploy the web-site
+
+Avoid ejecting
+
+can't change state without calling setState.. which is what what re-renders 
+the components
+
+npm add node-sass
+- this makes is so React automatically transfers sass files into css 

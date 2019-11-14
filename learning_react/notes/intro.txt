@@ -1,0 +1,10 @@
+To be a great react developer do the following:
+1. Decide on components
+2. Decide the State and where it lives.
+3. What changes when state changes.
+
+- onclick requesting data from server, rather than html pages like before.
+- all components return some jsx or react elements(HTML)
+- .js and .jsx is the same thing, matter of preference.
+- React has "SyntheticEvents"
+- state updates are asynchronous 

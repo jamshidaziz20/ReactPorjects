@@ -4,8 +4,6 @@ import './App.css';
 import Todo from './Todo'
 import TodoForm from './TodoForm'
 
-
-
 function App() {
   const [todos, setTodos] = useState([
     { text: "Learn react", isComplete: false },

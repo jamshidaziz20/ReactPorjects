@@ -1,0 +1,11 @@
+Inside the backend
+
+npm init -y
+npm install 
+    express(web framework for node.js) 
+    cors(provides an express middleware, allows easily access stuff from outside our server) 
+    mongoose dotenv(loads environment variables from a .env file into a process.env file)
+npm install -g nodemon (makes development easier, by automaticlly restasrting the node applicaiton when file changes detected )
+
+
+nodemon server starts the server
